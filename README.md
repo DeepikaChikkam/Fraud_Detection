@@ -1,4 +1,4 @@
-# 💳 Credit Card Fraud Detection (Project 1)
+# 💳 Credit Card Fraud Detection 
 
 ### **Objective**
 To build a robust machine learning model capable of detecting fraudulent transactions in a severely imbalanced financial dataset.
